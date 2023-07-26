@@ -1,0 +1,46 @@
+{
+	"id": 3043,
+	"name": "r/redrising",
+	"description": "Subreddit gathered around an amazing science fiction book series called Red Rising. The artwork on top is the helm symbol from the Sons of Ares, an underground resistance group from the series.",
+	"links": {
+		"website": [
+			"https://www.piercebrown.com/redrisingsaga"
+		],
+		"subreddit": [
+			"redrising"
+		],
+		"discord": [
+			"38h3Jtrm"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				438,
+				500
+			],
+			[
+				463,
+				500
+			],
+			[
+				464,
+				541
+			],
+			[
+				438,
+				540
+			],
+			[
+				438,
+				518
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			451,
+			520
+		]
+	}
+}
