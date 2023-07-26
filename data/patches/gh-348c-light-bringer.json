@@ -1,0 +1,44 @@
+{
+	"id": 3038,
+	"name": "Light Bringer",
+	"description": "Light Bringer is the 6th book of the Red Rising series by author Pierce Brown and was released on 7/25/2023. On the lower right side of the artwork is a weapon used in the series called a Slingblade. ",
+	"links": {
+		"subreddit": [
+			"redrising"
+		],
+		"discord": [
+			"cuyxWpjcP9",
+			"865AWxh"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				-1500,
+				596
+			],
+			[
+				-1436,
+				597
+			],
+			[
+				-1436,
+				619
+			],
+			[
+				-1491,
+				619
+			],
+			[
+				-1500,
+				619
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			-1488,
+			608
+		]
+	}
+}
